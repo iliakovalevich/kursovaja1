@@ -18,5 +18,6 @@ void AnotherWindow::on_pushButton_clicked()
 {
     this->close();
 //    sds
+//    ssd
 //    dfs
 }
